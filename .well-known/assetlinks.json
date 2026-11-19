@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.xflamebotx.mova",
+      "sha256_cert_fingerprints": [
+        "D6:6A:85:7F:F3:FE:DF:5F:D1:44:97:53:E2:D8:4B:8B:8A:A8:E7:92:47:6B:C7:2A:0A:07:45:F5:75:07:0F:C9"
+      ]
+    }
+  }
+]
